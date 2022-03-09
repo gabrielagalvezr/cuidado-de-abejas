@@ -1,0 +1,12 @@
+body {
+    color:black;
+    background-color:rgb(177, 201, 139)
+}
+#boton1{
+    padding: 0 20px 20px;
+    background-color: rosybrown;
+    color:white;
+    text-shadow: 3px 3px 1px black;
+    font-size: 24px;
+
+}
