@@ -1,12 +1,30 @@
 body {
     color:black;
-    background-color:rgb(177, 201, 139)
+    background: linear-gradient(80deg, rgb(255, 187, 59) 30%, white);
 }
 #boton1{
     padding: 0 20px 20px;
-    background-color: rosybrown;
-    color:white;
+    background-color: rgb(202, 202, 202);
+    color:rgba(0, 0, 0, 0.877);
     text-shadow: 3px 3px 1px black;
     font-size: 24px;
+    border-radius: 0.8em;
+    text-shadow: black 3px 5px 2px;
+    box-shadow: rgba(purple,green,blue,alpha)5px 6px 4px;
+    margin: 0 auto;
+    background: #ffffff;
+}
+
+#boton1:hover{
+    padding: 0 20px 20px;
+    background-color: rgb(252, 147, 87);
+    color:rgba(68, 62, 62, 0.877);
+    text-shadow: 3px 3px 1px black;
+    font-size: 24px;
+    border-radius: 0.8em;
+
+}
+#portada{
+    background: linear-gradient(80deg,rgb(0, 134, 0)40%,rgb(223, 235, 222));
 
 }
